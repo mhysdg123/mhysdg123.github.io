@@ -105,7 +105,7 @@ deploy:
   type: git
   repo:
     #coding: git@e.coding.net:mhysdg123/blog/mhysdg123.blog.git
-    #github: git@github.com:mhysdg123/mhysdg123.github.io.git
-    gitee: git@gitee.com:mhysdg123/boke.git
+    github: git@github.com:mhysdg123/mhysdg123.github.io.git
+    #gitee: git@gitee.com:mhysdg123/boke.git
   brandh: master
   message:
